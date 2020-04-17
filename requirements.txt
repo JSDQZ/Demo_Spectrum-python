@@ -13,8 +13,6 @@ numpy==1.18.1
 pylint==2.4.4
 pyparsing==2.4.6
 python-dateutil==2.8.1
-PyVISA==1.10.1
-PyVISA-py==0.3.1
 requests==2.23.0
 six==1.14.0
 typed-ast==1.4.1
